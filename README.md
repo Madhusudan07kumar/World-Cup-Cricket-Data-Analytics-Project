@@ -51,3 +51,14 @@ The main goal is to apply **data analytics concepts using Python** to a real-wor
 | Jupyter Notebook | Interactive workflow |
 
 
+<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/e67bfdf2-2762-4778-a556-0fd60204092d" />
+
+
+<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/0c1ac792-6077-4aa4-92e5-33b66359e2bd" />
+
+
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/32bcc01b-be5b-4153-b585-2393e69e5311" />
+
+
+
+
